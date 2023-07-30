@@ -1,4 +1,5 @@
 //Ek-8 ) Robotun Sıçramalarını Önlemek İçin Yapılan Optimize Yazılım
+
 //This software is for making robotic arm by controlling 4 servo motor -HakanAtes
 
 #include<Servo.h>
